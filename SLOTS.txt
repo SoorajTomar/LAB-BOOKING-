@@ -1,0 +1,13 @@
+AI SLOTS (VARUN SIR)
+Day : 2 :- L21 L22 - Venue : TP 416 VP LAB
+Day : 3 :- P23 P24 - Venue : TP 415 OOPS Lab B
+Day : 3 :- P27 P28 - Venue : TP 416 VP LAB
+Day : 4 :- P39 P40 - Venue : TP 416 VP LAB
+CD SLOTS (KARTHIKEYAN SIR)
+Day : 1 :- P3 P4 - Venue : TP1514 Redhat Linux Lab
+Day : 1 :- P7 P8 - Venue : TP 414 OOPS Lab A
+Day : 2 :- P17 P18 - Venue : TP 414 OOPS Lab A
+Day : 2 :- L21 L22 - Venue : TP 414 OOPS Lab A
+DBMS SLOTS (KRISHNARAJ SIR)
+Day : 2 :- P13 P14 - Venue : TP 415 OOPS Lab B
+Day : 5 :- P47 P48 - Venue : TP 415 OOPS Lab B
